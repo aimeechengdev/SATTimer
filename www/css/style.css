@@ -1,0 +1,37 @@
+/* Empty. Add your own CSS if you like */
+body {
+    background-color: #050505;
+}
+
+.item {
+    background-color: #000000;
+    color: #ff80ab;
+    border: 0px;
+}
+
+.button {
+    background-color: #000000;
+    color: #ff80ab;
+    border: 2px;
+    border-style: solid;
+    border-color: red;
+}
+
+.sat-title {
+    background-color: #000000;
+    color: #ff80ab;
+     text-align: center;
+}
+
+.title {
+    background-color: #000000;
+    color: #ff80ab;
+     text-align: center;
+}
+.card {
+    background-color: #000000;
+    color: #ff80ab;
+    border: 0px;
+}
+.container { white-space: nowrap; }
+.column { display: inline-block; width: 50%; white-space: normal; }
